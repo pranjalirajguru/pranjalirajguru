@@ -23,9 +23,8 @@
 pranjali = {
     "🎓 education":  "B.Sc. Computer Science @ Solapur University (2023–2026)",
     "📍 location":   "Solapur, Maharashtra, India",
-    "💼 seeking":    "Entry-Level Technical Analyst / Full Stack Developer Role",
-    "🔭 building":   "Aurora-AI — Women Support Platform",
-    "🌱 learning":   "Generative AI, Multi-Agent Systems, Cloud Architecture",
+    "💼 seeking":    "Entry-Level Data Analyst / Full Stack Developer Role",
+    "🌱 learning":   "Advanced Data Analytics, Machine Learning Model Deployment, SQL Optimization, Power BI Dashboards",
     "⚡ fun fact":   "I turn coffee ☕ and data 📊 into solutions 🚀"
 }
 ```
