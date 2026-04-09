@@ -22,10 +22,8 @@
 class Pranjali:
     name       = "Pranjali Rajguru"
     degree     = "B.Sc Computer Science · Solapur University (2023–2026)"
-    roles      = ["Software Developer", "Data Analyst", "Cloud Practitioner"]
     passion    = "Building scalable solutions & deriving insights from data"
-    building   = "Aurora — Women Safety & AI Support Platform 🌸"
-    exploring  = ["Generative AI", "Multi-Agent Systems", "Cloud Architecture"]
+    exploring  = ["Data Analytics & Engineering", "Generative AI", "Cloud Architecture"]
     seeking    = "Entry-Level roles in Tech / Data / Full Stack"
     fun_fact   = "I turn ☕ coffee + 📊 data → 🚀 impactful solutions"
 ```
