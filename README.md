@@ -9,7 +9,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pranjali_Rajguru-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranjali-rajguru19)
-[![GitHub](https://img.shields.io/badge/GitHub-pranjalirajgurualso-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranjalirajguru)
+[![GitHub](https://img.shields.io/badge/GitHub-pranjalirajguru-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranjalirajguru)
 [![Email](https://img.shields.io/badge/Email-pranjalirajguru2003@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranjalirajguru2003@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-A855F7?style=for-the-badge&logo=vercel&logoColor=white)](https://pranjalirajguru.github.io/Portfolio/)
 
