@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=200&section=header&text=Pranjali%20Rajguru&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20·%20Data%20Science%20·%20Cloud%20Enthusiast&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=220&section=header&text=Pranjali%20Rajguru&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20·%20Data%20Science%20·%20Cloud%20Enthusiast&descAlignY=58&descAlign=50" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=👩‍💻+Final-Year+CS+Student+%40+Solapur+University;🌸+Creator+of+Aurora+—+Women+Safety+%26+AI+Platform;☁️+Azure+%7C+Google+Cloud+Certified;📊+Data+Analytics+%7C+ML+%7C+Full+Stack+Dev;🤖+Building+with+Generative+AI+%26+Multi-Agent+Systems;🚀+Open+to+Entry-Level+Opportunities!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=👩‍💻+Final-Year+CS+Student+%40+Solapur+University;🌸+Creator+of+Aurora+—+Women+Safety+%26+AI+Platform;☁️+Azure+%7C+Google+Cloud+Certified;📊+Data+Analytics+%7C+ML+%7C+Full+Stack+Dev;🤖+Building+with+Generative+AI+%26+Multi-Agent+Systems;💡+Turning+Data+into+Decisions+%26+Ideas+into+Impact;🚀+Open+to+Entry-Level+Opportunities!)](https://git.io/typing-svg)
 
 <br/>
 
@@ -20,12 +20,13 @@
 
 ```python
 class Pranjali:
-    name       = "Pranjali Rajguru"
-    degree     = "B.Sc Computer Science · Solapur University (2023–2026)"
-    passion    = "Building scalable solutions & deriving insights from data"
-    exploring  = ["Data Analytics & Engineering", "Generative AI", "Cloud Architecture"]
-    seeking    = "Entry-Level roles in Tech / Data / Full Stack"
-    fun_fact   = "I turn ☕ coffee + 📊 data → 🚀 impactful solutions"
+    name        = "Pranjali Rajguru"
+    degree      = "B.Sc Computer Science · Solapur University (2023–2026)"
+    passion     = "Building scalable solutions & deriving insights from data"
+    exploring   = ["Data Analytics & Engineering", "Generative AI", "Cloud Architecture"]
+    building    = "Aurora — Women Safety & AI Support Platform"
+    seeking     = "Entry-Level roles in Tech / Data / Full Stack"
+    fun_fact    = "I turn ☕ coffee + 📊 data → 🚀 impactful solutions"
 ```
 
 ---
@@ -58,73 +59,91 @@ class Pranjali:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-**📊 Data & Databases**
+**📊 Data, ML & Databases**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
+![Folium](https://img.shields.io/badge/Folium-77B829?style=flat-square&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
+
+### 📊 [E-Commerce Sales Intelligence Dashboard](https://github.com/pranjalirajguru)
+`Python` `Pandas` `Plotly` `Streamlit` `Data Analysis` `EDA`
+
+> Interactive business intelligence dashboard for analysing e-commerce performance end-to-end. Features live KPI tracking, revenue trend visualisation, regional heatmaps, customer segmentation, and sales forecasting — all with dynamic filters. Demonstrates real-world data analysis, EDA, and BI capabilities.
+
+---
 
 ### 🌸 [Aurora — Women Safety & AI Support System](https://github.com/pranjalirajguru/Aurora-A-Strong-Voice)
 `React` `FastAPI` `Python` `SQLite` `AI`
 
-Full-stack women's safety platform with an AI-powered legal assistant, complaint support system, and mental health resource module. Enables secure incident reporting, legal awareness, and emotional well-being support.
+> Full-stack women's safety platform integrating an AI-powered legal assistant, a complaint support system, and a mental health resource module. Enables secure incident reporting, legal awareness, and emotional well-being support — built with empathy and purpose at its core.
+
+---
+
+### 🧘 [Serenity — AI-Based Mood Companion](https://github.com/pranjalirajguru)
+`UI/UX Design` `HTML` `CSS` `Responsive Design`
+
+> A UI/UX case study and interactive frontend prototype designed to help users manage stress and build sustainable self-care habits. Applies human-centered design principles with mood tracking and AI-based suggestions — demonstrating UX research, product thinking, and accessible frontend implementation.
+
+---
+
+### 💸 [Finio — Smart Spending & Financial Insights](https://github.com/pranjalirajguru)
+`HTML` `CSS` `JavaScript` `Chart.js`
+
+> A fintech UX case study and interactive product prototype providing intelligent spending insights and budget tracking. Showcases data visualisation, AI-driven insights, and modern UI design with Chart.js, CSS animations, and JavaScript — highlighting both analytics and frontend engineering skills.
 
 ---
 
 ### 🍽️ [Location-Based Restaurant Analysis](https://github.com/pranjalirajguru/Location-Based-Restaurant-Analysis)
-`Python` `Pandas` `Folium` `Matplotlib`
+`Python` `Folium` `Pandas` `Matplotlib`
 
-Geospatial data analysis project visualising restaurant distribution across 5,000+ records — interactive maps, EDA, and actionable business insights.
+> Geospatial data analysis project visualising restaurant distribution across 5,000+ records with interactive maps, exploratory data analysis, and actionable business insights.
 
 ---
 
 ### 🤖 [Cuisine Classification](https://github.com/pranjalirajguru/Cuisine-Classification)
 `Python` `Scikit-learn` `Pandas`
 
-End-to-end ML model predicting restaurant cuisine type — data preprocessing, feature engineering, classification algorithms, and model evaluation.
+> End-to-end ML model predicting restaurant cuisine type — covering data preprocessing, feature engineering, classification algorithms, and model evaluation.
 
 ---
 
-### ☁️ Technical Automation Workflow — GenAI Multi-Agent System
-`Google ADK` `MCP Tools` `Google Cloud Run` `Docker`
-
-Multi-agent Generative AI workflows deployed on Google Cloud Run using Google Agent Development Kit and MCP tools with Docker containerisation.
-
----
-
-### 🎵 [Rhythm and Routine](https://pranjalirajguru.github.io/rhythm-and-routine/)
+### ⏱️ [Rhythm and Routine](https://pranjalirajguru.github.io/rhythm-and-routine/)
 `HTML` `CSS` `JavaScript`
 
-Productivity-focused self-care timer app with task tracking, motivational prompts, and a clean interactive UI demonstrating responsive design.
-
----
-
-### 💻 [SaaS Landing Page](https://modernsa.netlify.app/)
-`Next.js` `Tailwind CSS` `React`
-
-Modern responsive SaaS landing page with reusable components, smooth animations, and performance-focused styling.
-
----
-
-### 📒 [Command-Line Address Book](https://github.com/pranjalirajguru/Command-Line-Address-Book)
-`C++` `OOP`
-
-Menu-driven CLI address book with full contact management and file-based data persistence using object-oriented programming.
+> Productivity-focused self-care timer app with task tracking, motivational prompts, and a clean interactive UI — demonstrating responsive design principles and user-centric frontend development.
 
 ---
 
 ### 🦑 [Squid Game Fan Site V1](https://pranjalirajguru.github.io/Squid-Game-Fan-Site-V1.0/)
 `HTML` `CSS` `JavaScript`
 
-Interactive themed website with dynamic character cards, visual UI components, and responsive layout.
+> Interactive themed website with dynamic character cards, visual UI components, and a responsive layout — showcasing structured styling and reusable component design.
+
+---
+
+### 💻 [SaaS Landing Page](https://modernsa.netlify.app/)
+`Next.js` `Tailwind CSS` `React`
+
+> Modern, responsive SaaS landing page with reusable components, smooth animations, and performance-focused styling — demonstrating professional frontend design standards.
+
+---
+
+### 🖥️ [Command-Line Address Book](https://github.com/pranjalirajguru/Command-Line-Address-Book)
+`C++` `OOP`
+
+> Menu-driven CLI address book with full contact management and file-based data persistence — built using clean object-oriented programming principles.
 
 ---
 
@@ -168,8 +187,8 @@ Interactive themed website with dynamic character cards, visual UI components, a
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pranjalirajguru&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalirajguru&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=pranjalirajguru&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&include_all_commits=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalirajguru&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" height="165"/>
 
 <br/>
 
@@ -182,6 +201,8 @@ Interactive themed website with dynamic character cards, visual UI components, a
 ## 🎯 Currently
 
 - 🔭 Building **Aurora** — Women Safety & AI Support Platform
+- 📊 Developing **E-Commerce Sales Intelligence Dashboard** with Streamlit & Plotly
+- 💡 Designing **Serenity** & **Finio** — AI-driven UX product prototypes
 - 🌱 Deepening expertise in **Generative AI** & **Multi-Agent Systems**
 - 🤝 Open to **Entry-Level** roles in Full Stack / Data / Cloud / Tech Analysis
 - 📫 Reach me → **pranjalirajguru2003@gmail.com**
