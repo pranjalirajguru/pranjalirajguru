@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=220&section=header&text=Pranjali%20Rajguru&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20·%20Data%20Science%20·%20Cloud%20Enthusiast&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=220&section=header&text=Pranjali%20Rajguru&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20·%20Cloud%20Enthusiast%20·%20Software%20Developer&descAlignY=58&descAlign=50" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=👩‍💻+B.Sc+CS+Graduate+%40+Solapur+University;☁️+Microsoft+Certified+%7C+Cloud+Enthusiast;📊+Data+Analytics+%7C+Business+Intelligence+%7C+ML;📈+Building+Data-Driven+Dashboards+%26+Insights;🤖+Exploring+Generative+AI+%26+Multi-Agent+Systems;🚀+Open+to+Entry-Level+Data+%2F+Tech+Roles!)](https://git.io/typing-svg)
 
